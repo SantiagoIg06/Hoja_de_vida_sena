@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: green;
+}
+h1 {
+    text-align: center;
+    color: rgb(0, 255, 0);
+}
+
+.contenedor-principal {
+    width: 400px;
+}
+.imagen {
+    width: 100px;
+    height: 100px;
+}
+
+.texto-i {
+    color: rgb(255, 255, 255);
+}
+
+.texto-f {
+    color: white;
+}
+.nombre-principal {
+    font-size: 20px;
+    align-items: self-end;
+    color: white;
+    float: right;
+}
+.t-secundario {
+    width: 1800px;  
+}
+.t-experiencia, .t-educacion, .t-referencia {
+    color: greenyellow;
+}
+
